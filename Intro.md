@@ -11,3 +11,5 @@ Ta seule source de lumière dans les sombres couloirs du temple est une torche v
 Des créatures mythiques veillent sur l'artéfact. Prépare-toi à affronter des monstres redoutables prêts à tout pour protéger leur trésor.
 
 "MysteriesOfEgypt" n'est pas seulement une quête d'artéfacts; c'est une aventure épique qui te défie de survire dans un environnement à la fois majestueux et redoutable. Es-tu prêt à relever le défi ?
+
+[Première étape Mapping](https://github.com/g404-code-gaming/MysteriesOfEgypt/blob/main/Cour/1.Mapping.md)
